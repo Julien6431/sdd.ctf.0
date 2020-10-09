@@ -1,0 +1,2 @@
+command : scp fsd319:~/script.py . && python script.py && rm script.py
+result : hello world
