@@ -41,3 +41,19 @@ Good luck!
 13. How many submodules are in the ~/Griddly repository?
 14. How many branches are in the ~/Griddly repository?
 15. What does the python script.py output when run?
+
+## Results
+
+Here are the points, based on question difficulty and response time. Thanks for participating, everyone!
+
+| Results                |     |
+| ---------------------- | --- |
+| BenjaminAllardEngineer |  43 |
+| yanisChaigneau         |  36 |
+| LudovicSterlin         |  32 |
+| gbourgarel             |  24 |
+| mgornet                |  10 |
+| michelTho              |   9 |
+| paulcarfantan          |   8 |
+| Julien6431             |   8 |
+| J-Cuadrado             |   1 |
